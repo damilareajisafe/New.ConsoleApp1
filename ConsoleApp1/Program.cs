@@ -1,2 +1,14 @@
-﻿Console.WriteLine("Hello, Master! One more modification"); 
+﻿void myFirstMethod()
+{
+  
+}
 
+void mySecondMethod()
+{
+
+}
+
+void myThirdMethod()
+{
+
+}
